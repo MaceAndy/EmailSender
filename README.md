@@ -11,7 +11,7 @@ Prosty program w Pythonie z graficznym interfejsem (GUI), który umożliwia wysy
 
 ## 📂 Wymagane pliki
 
-- `mailer_gui.py` – główny plik programu
+- `main.py` – główny plik programu
 - `klienci.csv` – plik z kolumnami `Imię` i `Email`
 
 ## 🚀 Uruchomienie
