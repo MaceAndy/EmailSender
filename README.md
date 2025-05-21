@@ -20,7 +20,7 @@ Prosty program w Pythonie z graficznym interfejsem (GUI), który umożliwia wysy
 2. Uruchom program:
 
 ```bash
-python mailer_gui.py
+python main.py
 ```
 
 ## 🛡️ Bezpieczeństwo
